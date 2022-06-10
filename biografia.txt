@@ -1,7 +1,9 @@
 
-Mi nombres e s Luis arellano
+Mi nombres es Luis arellano
 
-Soy el CEO de Platzi en mis tiempos corro carreras
-, escribo libros y hago cosas raras con Arduinos
-linea adicional
+Soy el CEO de Platzi en mis tiempos corro carreras,
+escribo libros y hago cosas raras con Arduinos
+
+Esta es una linea adicional
 otra lineas masssssssss
+fin del documento
